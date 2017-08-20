@@ -1,0 +1,3314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pkg:package xmlns:pkg="http://schemas.microsoft.com/office/2006/xmlPackage">
+  <pkg:part pkg:name="/_rels/.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="512">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId3" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/extended-properties" Target="docProps/app.xml"/>
+        <Relationship Id="rId2" Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="docProps/core.xml"/>
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml"/>
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/_rels/document.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId3" Type="http://schemas.microsoft.com/office/2007/relationships/stylesWithEffects" Target="stylesWithEffects.xml"/>
+        <Relationship Id="rId7" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme" Target="theme/theme1.xml"/>
+        <Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering" Target="numbering.xml"/>
+        <Relationship Id="rId6" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable" Target="fontTable.xml"/>
+        <Relationship Id="rId5" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings" Target="webSettings.xml"/>
+        <Relationship Id="rId4" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings" Target="settings.xml"/>
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/document.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+    <pkg:xmlData>
+      <w:document mc:Ignorable="w14 wp14" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+        <w:body>
+          <w:p w14:paraId="3BF52470" w14:textId="75A0EECC" w:rsidR="004A3BDD" w:rsidRPr="00B91B72" w:rsidRDefault="004A3BDD" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="0"/>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">В </w:t>
+            </w:r>
+            <w:r w:rsidR="00B91B72">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testsdfsf </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="4683C2D1" w14:textId="26241E00" w:rsidR="003175E4" w:rsidRPr="003175E4" w:rsidRDefault="003175E4" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Адрес: </w:t>
+            </w:r>
+            <w:r w:rsidR="00B91B72">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testsdsd </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="47D59581" w14:textId="77777777" w:rsidR="004A3BDD" w:rsidRPr="00E41B84" w:rsidRDefault="004A3BDD" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="67D55DF0" w14:textId="41AFB48C" w:rsidR="00701328" w:rsidRPr="00701328" w:rsidRDefault="004A3BDD" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00845A77">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+                <w:u w:val="single"/>
+              </w:rPr>
+              <w:t>Истец:</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="00B91B72">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dsdtest </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="7F81A57D" w14:textId="635A2248" w:rsidR="004A3BDD" w:rsidRPr="00701328" w:rsidRDefault="004A3BDD" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Адрес: </w:t>
+            </w:r>
+            <w:r w:rsidR="00B91B72">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testsds </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="2BB69C6E" w14:textId="607F808F" w:rsidR="004A3BDD" w:rsidRPr="00701328" w:rsidRDefault="004A3BDD" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00845A77">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+                <w:u w:val="single"/>
+              </w:rPr>
+              <w:t>Ответчик:</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="00B91B72">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dsdstest </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="179BF0B8" w14:textId="7DED5D46" w:rsidR="004A3BDD" w:rsidRPr="00701328" w:rsidRDefault="004A3BDD" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Адрес: </w:t>
+            </w:r>
+            <w:r w:rsidR="00B91B72">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testdsds </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="546E84A1" w14:textId="77777777" w:rsidR="00FB1FC6" w:rsidRPr="00E41B84" w:rsidRDefault="00FB1FC6" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="2EE300C3" w14:textId="6C02D7EE" w:rsidR="004A3BDD" w:rsidRDefault="00FB1FC6" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Цена иска </w:t>
+            </w:r>
+            <w:r w:rsidR="00B91B72">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testsdsd </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> руб.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="55A0FE5F" w14:textId="77777777" w:rsidR="00B35BDF" w:rsidRDefault="004A3BDD" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Государственная пошлина: </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="1C4B71EF" w14:textId="6D65CEEB" w:rsidR="004A3BDD" w:rsidRPr="00E41B84" w:rsidRDefault="00F64188" w:rsidP="00227223">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:ind w:left="5103"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>___________</w:t>
+            </w:r>
+            <w:r w:rsidR="00842280" w:rsidRPr="00FB1FC6">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="004A3BDD">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>руб.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="155E9520" w14:textId="77777777" w:rsidR="004A3BDD" w:rsidRDefault="004A3BDD" w:rsidP="009F50E3">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="688BA20C" w14:textId="77777777" w:rsidR="004A3BDD" w:rsidRPr="00E41B84" w:rsidRDefault="004A3BDD" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Исковое заявление</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="4FD493C1" w14:textId="77777777" w:rsidR="004A3BDD" w:rsidRDefault="004A3BDD" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">о взыскании </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>неустойки</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="29353472" w14:textId="77777777" w:rsidR="004A3BDD" w:rsidRDefault="004A3BDD" w:rsidP="009F50E3">
+            <w:pPr>
+              <w:spacing w:after="0"/>
+              <w:rPr>
+                <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+                <w:sz w:val="24"/>
+                <w:szCs w:val="24"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="7929D160" w14:textId="210DF0AC" w:rsidR="004A3BDD" w:rsidRPr="00017D09" w:rsidRDefault="00431673" w:rsidP="00431673">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:proofErr w:type="gramStart"/>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>//_!</w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>008</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="004A3BDD">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>г. м</w:t>
+            </w:r>
+            <w:r w:rsidR="004A3BDD" w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">ежду </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>//_!</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>003</w:t>
+            </w:r>
+            <w:r w:rsidR="005F60D8">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">(ИНН </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dsstest </w:t>
+            </w:r>
+            <w:r w:rsidR="004A3BDD">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>) (далее – Истец)</w:t>
+            </w:r>
+            <w:r w:rsidR="004A3BDD" w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> и </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dsdstest </w:t>
+            </w:r>
+            <w:r w:rsidR="004A3BDD">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> (ИНН</w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testdsds </w:t>
+            </w:r>
+            <w:r w:rsidR="00D54170">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>)</w:t>
+            </w:r>
+            <w:r w:rsidR="00017D09">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> (далее – Ответчик)</w:t>
+            </w:r>
+            <w:r w:rsidR="003175E4">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="004A3BDD" w:rsidRPr="002D28E7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>был</w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> заключен договор </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dfsfstest </w:t>
+            </w:r>
+            <w:r w:rsidR="00017D09">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="004A3BDD" w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>(далее – Договор</w:t>
+            </w:r>
+            <w:r w:rsidR="004A3BDD">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>, копия прилагается</w:t>
+            </w:r>
+            <w:r w:rsidR="004A3BDD" w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>).</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="54525984" w14:textId="065D4731" w:rsidR="004A3BDD" w:rsidRPr="002D28E7" w:rsidRDefault="004A3BDD" w:rsidP="00EB1905">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Предметом </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Д</w:t>
+            </w:r>
+            <w:r w:rsidR="00C71A5C">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">оговора </w:t>
+            </w:r>
+            <w:r w:rsidR="00C71A5C" w:rsidRPr="002D28E7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>явл</w:t>
+            </w:r>
+            <w:r w:rsidR="00044AC9">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>яется</w:t>
+            </w:r>
+            <w:r w:rsidRPr="002D28E7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">выполнение Заказчиком </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testdsdsd .</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="764110B7" w14:textId="6550FDB2" w:rsidR="004A3BDD" w:rsidRPr="002D28E7" w:rsidRDefault="004A3BDD" w:rsidP="003870BD">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="002D28E7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">В соответствии с </w:t>
+            </w:r>
+            <w:r w:rsidR="003175E4">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>условиями</w:t>
+            </w:r>
+            <w:r w:rsidRPr="002D28E7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> Договора, общая цена Договора составляет </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testsdsfdf </w:t>
+            </w:r>
+            <w:r w:rsidR="00842280" w:rsidRPr="002D28E7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">. </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="392B2EAC" w14:textId="56971067" w:rsidR="00A924D4" w:rsidRDefault="004A3BDD" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Согласно </w:t>
+            </w:r>
+            <w:r w:rsidR="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>условиям Договора, Заказчик обязан оплатить выполненн</w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">ые работы в срок не позднее </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dsfsftest </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>.</w:t>
+            </w:r>
+            <w:r w:rsidR="003870BD">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="48AA4F6E" w14:textId="05A79F34" w:rsidR="005C42B1" w:rsidRDefault="005C42B1" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Факт выполнения работ подтверждается актами выполненных работ: </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testsdfs .</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="48B60BB9" w14:textId="77777777" w:rsidR="005C42B1" w:rsidRDefault="005C42B1" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Работы Истцом выполнены в срок и в полном объеме в соответствие с условиями Договора.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="0AEC8D1B" w14:textId="1C2118E8" w:rsidR="004A3BDD" w:rsidRPr="005C42B1" w:rsidRDefault="004A3BDD" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">В соответствии с Расчетом неустойки (прилагается к настоящему исковому заявлению) размер </w:t>
+            </w:r>
+            <w:r w:rsidR="005C42B1" w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>задолженности</w:t>
+            </w:r>
+            <w:r w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">, подлежащей выплате Ответчиком Истцу </w:t>
+            </w:r>
+            <w:r w:rsidR="00130128" w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">по состоянию на </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testdsf </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">составляет </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>//_!</w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA" w:rsidRPr="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>007</w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>(</w:t>
+            </w:r>
+            <w:r w:rsidR="005C42B1" w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>_______________________________</w:t>
+            </w:r>
+            <w:r w:rsidR="00130128" w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>) рубль</w:t>
+            </w:r>
+            <w:r w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="005C42B1" w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">_____ </w:t>
+            </w:r>
+            <w:r w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>коп.</w:t>
+            </w:r>
+            <w:r w:rsidR="00130128" w:rsidRPr="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="2FEDF091" w14:textId="62A61034" w:rsidR="00F86CF7" w:rsidRDefault="004A3BDD" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:proofErr w:type="gramStart"/>
+            <w:proofErr w:type="gramEnd"/>
+            <w:proofErr w:type="gramStart"/>
+            <w:proofErr w:type="gramEnd"/>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">С целью урегулирования образовавшейся у </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Ответчика</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> задолженности, </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Истец</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> в досудебном порядке</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">, </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>направ</w:t>
+            </w:r>
+            <w:r w:rsidR="00687244">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>и</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">л </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Ответчику</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> претензию с требованием уплаты суммы</w:t>
+            </w:r>
+            <w:r w:rsidR="003A4CFE">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> неустойки</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> в добровольном порядке </w:t>
+            </w:r>
+            <w:r w:rsidR="00C352CA">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>//_!018</w:t>
+            </w:r>
+            <w:r w:rsidR="00F86CF7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>).</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="00F86CF7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Ответа на направленную Претензию от Ответчика не </w:t>
+            </w:r>
+            <w:r w:rsidR="00F86CF7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>поступало</w:t>
+            </w:r>
+            <w:r w:rsidR="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="00891011">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>НЕТ</w:t>
+            </w:r>
+            <w:r w:rsidR="005C42B1">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>/ Ответ на направленную претензию не содержит обоснованных довод о невозможности взыскания заявленных требований</w:t>
+            </w:r>
+            <w:r w:rsidR="00891011" w:rsidRPr="00891011">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> ДА</w:t>
+            </w:r>
+            <w:r w:rsidR="00F86CF7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>. Факт направления подтверждается почтовой квитанцией об отправке (копия прилагается).</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="5632C783" w14:textId="77777777" w:rsidR="00F86CF7" w:rsidRDefault="00BF63E9" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>В соответствии со ст. ст. 309, 310, 314, 315 ГК РФ, обязательства должны исполняться надлежащим образом в соответствии с условиями договора, односторонний отказ от исполнения договора и одностороннее изменение</w:t>
+            </w:r>
+            <w:r w:rsidR="00BA2CB0">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> его условий не допускается. </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="751CC873" w14:textId="77777777" w:rsidR="00BF63E9" w:rsidRDefault="00BA2CB0" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:lastRenderedPageBreak/>
+              <w:t>В с</w:t>
+            </w:r>
+            <w:r w:rsidR="00F86CF7">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>илу</w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> ст. 330 ГК РФ стороны могут определить в договоре размер неустойки, подлежащей уплате стороной, допустившей ненадлежащее исполнение обязательств по договору, в частности в случае просрочки исполнения.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="6C42D823" w14:textId="77777777" w:rsidR="004A3BDD" w:rsidRPr="00E41B84" w:rsidRDefault="004A3BDD" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>В связи с вышеуказанными обстоятел</w:t>
+            </w:r>
+            <w:r w:rsidR="001C226A">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">ьствами, руководствуясь ст. 125 </w:t>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>АПК РФ, ст.</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>330</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> ГК РФ, </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="5B6ABA5D" w14:textId="77777777" w:rsidR="004A3BDD" w:rsidRDefault="004A3BDD" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>ПРОШУ:</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="287C612C" w14:textId="77777777" w:rsidR="00812A3E" w:rsidRPr="00E41B84" w:rsidRDefault="00812A3E" w:rsidP="00E41B84">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:firstLine="708"/>
+              <w:jc w:val="center"/>
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="46A8913A" w14:textId="32F6DE56" w:rsidR="004A3BDD" w:rsidRPr="00F64188" w:rsidRDefault="004A3BDD" w:rsidP="00CD31E8">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="2"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:left="284"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Взыскать с</w:t>
+            </w:r>
+            <w:r w:rsidRPr="00E41B84">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dsdstest </w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"/>
+            </w:r>
+            <w:r w:rsidR="00F64188">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">(ИНН </w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testdsds </w:t>
+            </w:r>
+            <w:r w:rsidR="00F64188">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">) задолженность в размере </w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> testsdsd  </w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">в пользу </w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> testsdsd </w:t>
+            </w:r>
+            <w:r w:rsidR="00F64188">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve"> (ИНН </w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dsstest </w:t>
+            </w:r>
+            <w:r w:rsidR="00F64188">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>) и сумму государственной пошлины в размере ___________ рублей.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="61B36AB8" w14:textId="77777777" w:rsidR="00F64188" w:rsidRDefault="00F64188" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="3D571AB5" w14:textId="5D9B4887" w:rsidR="00F64188" w:rsidRDefault="00F64188" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Приложение:</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="2DB1A712" w14:textId="77777777" w:rsidR="0014312E" w:rsidRPr="0014312E" w:rsidRDefault="00F64188" w:rsidP="00E04049">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r w:rsidRPr="0014312E">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Договор № </w:t>
+            </w:r>
+            <w:r w:rsidR="0014312E">
+              <w:rPr>
+                <w:b/>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t> dfsfstest </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="4443D48E" w14:textId="13632B2B" w:rsidR="00F64188" w:rsidRPr="00F64188" w:rsidRDefault="00F64188" w:rsidP="00E04049">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r w:rsidRPr="0014312E">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Копия претензии.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="0035F9F6" w14:textId="5A563E6B" w:rsidR="00F64188" w:rsidRPr="00F64188" w:rsidRDefault="00F64188" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Квитанция об оплате государственной пошлины.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="22095031" w14:textId="39A567D0" w:rsidR="00F64188" w:rsidRPr="00FB2F58" w:rsidRDefault="00F64188" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Товарные накладные.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="198C6158" w14:textId="00C98227" w:rsidR="00F64188" w:rsidRPr="00FB2F58" w:rsidRDefault="00F64188" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Выписка из ЕГРЮЛ на Истца.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="68E33D17" w14:textId="0D5CA1F0" w:rsidR="00F64188" w:rsidRPr="00FB2F58" w:rsidRDefault="00F64188" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FB2F58">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Выписка из ЕГРЮЛ на Ответчика</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="4ECC4414" w14:textId="28126AD3" w:rsidR="00F64188" w:rsidRDefault="00F64188" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="00FB2F58">
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Свидетельство о государственной регистрации Истца</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="7C835EBC" w14:textId="0781DAA5" w:rsidR="00FB2F58" w:rsidRDefault="00FB2F58" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Почтовая квитанция об отправке настоящего искового заявления Ответчику.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="36DAEB4E" w14:textId="747191FF" w:rsidR="00FB2F58" w:rsidRDefault="00FB2F58" w:rsidP="00F64188">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:numPr>
+                <w:ilvl w:val="0"/>
+                <w:numId w:val="4"/>
+              </w:numPr>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t>Доверенность представителя Истца.</w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="46242A24" w14:textId="77777777" w:rsidR="00FB2F58" w:rsidRDefault="00FB2F58" w:rsidP="00FB2F58">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="43FAEB8F" w14:textId="77777777" w:rsidR="00FB2F58" w:rsidRDefault="00FB2F58" w:rsidP="00FB2F58">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+          </w:p>
+          <w:p w14:paraId="0C2B939C" w14:textId="2D7E4105" w:rsidR="00FB2F58" w:rsidRPr="00FB2F58" w:rsidRDefault="00FB2F58" w:rsidP="00FB2F58">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:jc w:val="both"/>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+            </w:pPr>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="26"/>
+                <w:szCs w:val="26"/>
+              </w:rPr>
+              <w:t xml:space="preserve">Представитель Истца </w:t>
+            </w:r>
+          </w:p>
+          <w:p w14:paraId="161112FE" w14:textId="77777777" w:rsidR="00F64188" w:rsidRPr="009F50E3" w:rsidRDefault="00F64188" w:rsidP="00FB2F58">
+            <w:pPr>
+              <w:pStyle w:val="a3"/>
+              <w:spacing w:before="0" w:beforeAutospacing="0" w:after="0" w:afterAutospacing="0" w:line="276" w:lineRule="auto"/>
+              <w:ind w:left="720"/>
+              <w:jc w:val="both"/>
+            </w:pPr>
+          </w:p>
+          <w:sectPr w:rsidR="00F64188" w:rsidRPr="009F50E3" w:rsidSect="00E41B84">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1134" w:right="850" w:bottom="1560" w:left="1701" w:header="708" w:footer="708" w:gutter="0"/>
+            <w:cols w:space="708"/>
+            <w:docGrid w:linePitch="360"/>
+          </w:sectPr>
+        </w:body>
+      </w:document>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/theme/theme1.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.theme+xml">
+    <pkg:xmlData>
+      <a:theme name="Office Theme" xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+        <a:themeElements>
+          <a:clrScheme name="Office">
+            <a:dk1>
+              <a:sysClr val="windowText" lastClr="000000"/>
+            </a:dk1>
+            <a:lt1>
+              <a:sysClr val="window" lastClr="FFFFFF"/>
+            </a:lt1>
+            <a:dk2>
+              <a:srgbClr val="1F497D"/>
+            </a:dk2>
+            <a:lt2>
+              <a:srgbClr val="EEECE1"/>
+            </a:lt2>
+            <a:accent1>
+              <a:srgbClr val="4F81BD"/>
+            </a:accent1>
+            <a:accent2>
+              <a:srgbClr val="C0504D"/>
+            </a:accent2>
+            <a:accent3>
+              <a:srgbClr val="9BBB59"/>
+            </a:accent3>
+            <a:accent4>
+              <a:srgbClr val="8064A2"/>
+            </a:accent4>
+            <a:accent5>
+              <a:srgbClr val="4BACC6"/>
+            </a:accent5>
+            <a:accent6>
+              <a:srgbClr val="F79646"/>
+            </a:accent6>
+            <a:hlink>
+              <a:srgbClr val="0000FF"/>
+            </a:hlink>
+            <a:folHlink>
+              <a:srgbClr val="800080"/>
+            </a:folHlink>
+          </a:clrScheme>
+          <a:fontScheme name="Office">
+            <a:majorFont>
+              <a:latin typeface="Cambria"/>
+              <a:ea typeface=""/>
+              <a:cs typeface=""/>
+              <a:font script="Jpan" typeface="ＭＳ ゴシック"/>
+              <a:font script="Hang" typeface="맑은 고딕"/>
+              <a:font script="Hans" typeface="宋体"/>
+              <a:font script="Hant" typeface="新細明體"/>
+              <a:font script="Arab" typeface="Times New Roman"/>
+              <a:font script="Hebr" typeface="Times New Roman"/>
+              <a:font script="Thai" typeface="Angsana New"/>
+              <a:font script="Ethi" typeface="Nyala"/>
+              <a:font script="Beng" typeface="Vrinda"/>
+              <a:font script="Gujr" typeface="Shruti"/>
+              <a:font script="Khmr" typeface="MoolBoran"/>
+              <a:font script="Knda" typeface="Tunga"/>
+              <a:font script="Guru" typeface="Raavi"/>
+              <a:font script="Cans" typeface="Euphemia"/>
+              <a:font script="Cher" typeface="Plantagenet Cherokee"/>
+              <a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+              <a:font script="Tibt" typeface="Microsoft Himalaya"/>
+              <a:font script="Thaa" typeface="MV Boli"/>
+              <a:font script="Deva" typeface="Mangal"/>
+              <a:font script="Telu" typeface="Gautami"/>
+              <a:font script="Taml" typeface="Latha"/>
+              <a:font script="Syrc" typeface="Estrangelo Edessa"/>
+              <a:font script="Orya" typeface="Kalinga"/>
+              <a:font script="Mlym" typeface="Kartika"/>
+              <a:font script="Laoo" typeface="DokChampa"/>
+              <a:font script="Sinh" typeface="Iskoola Pota"/>
+              <a:font script="Mong" typeface="Mongolian Baiti"/>
+              <a:font script="Viet" typeface="Times New Roman"/>
+              <a:font script="Uigh" typeface="Microsoft Uighur"/>
+            </a:majorFont>
+            <a:minorFont>
+              <a:latin typeface="Calibri"/>
+              <a:ea typeface=""/>
+              <a:cs typeface=""/>
+              <a:font script="Jpan" typeface="ＭＳ 明朝"/>
+              <a:font script="Hang" typeface="맑은 고딕"/>
+              <a:font script="Hans" typeface="宋体"/>
+              <a:font script="Hant" typeface="新細明體"/>
+              <a:font script="Arab" typeface="Arial"/>
+              <a:font script="Hebr" typeface="Arial"/>
+              <a:font script="Thai" typeface="Cordia New"/>
+              <a:font script="Ethi" typeface="Nyala"/>
+              <a:font script="Beng" typeface="Vrinda"/>
+              <a:font script="Gujr" typeface="Shruti"/>
+              <a:font script="Khmr" typeface="DaunPenh"/>
+              <a:font script="Knda" typeface="Tunga"/>
+              <a:font script="Guru" typeface="Raavi"/>
+              <a:font script="Cans" typeface="Euphemia"/>
+              <a:font script="Cher" typeface="Plantagenet Cherokee"/>
+              <a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+              <a:font script="Tibt" typeface="Microsoft Himalaya"/>
+              <a:font script="Thaa" typeface="MV Boli"/>
+              <a:font script="Deva" typeface="Mangal"/>
+              <a:font script="Telu" typeface="Gautami"/>
+              <a:font script="Taml" typeface="Latha"/>
+              <a:font script="Syrc" typeface="Estrangelo Edessa"/>
+              <a:font script="Orya" typeface="Kalinga"/>
+              <a:font script="Mlym" typeface="Kartika"/>
+              <a:font script="Laoo" typeface="DokChampa"/>
+              <a:font script="Sinh" typeface="Iskoola Pota"/>
+              <a:font script="Mong" typeface="Mongolian Baiti"/>
+              <a:font script="Viet" typeface="Arial"/>
+              <a:font script="Uigh" typeface="Microsoft Uighur"/>
+            </a:minorFont>
+          </a:fontScheme>
+          <a:fmtScheme name="Office">
+            <a:fillStyleLst>
+              <a:solidFill>
+                <a:schemeClr val="phClr"/>
+              </a:solidFill>
+              <a:gradFill rotWithShape="1">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="50000"/>
+                      <a:satMod val="300000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="35000">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="37000"/>
+                      <a:satMod val="300000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="15000"/>
+                      <a:satMod val="350000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="16200000" scaled="1"/>
+              </a:gradFill>
+              <a:gradFill rotWithShape="1">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="phClr">
+                      <a:shade val="51000"/>
+                      <a:satMod val="130000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="80000">
+                    <a:schemeClr val="phClr">
+                      <a:shade val="93000"/>
+                      <a:satMod val="130000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="phClr">
+                      <a:shade val="94000"/>
+                      <a:satMod val="135000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:lin ang="16200000" scaled="0"/>
+              </a:gradFill>
+            </a:fillStyleLst>
+            <a:lnStyleLst>
+              <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                <a:solidFill>
+                  <a:schemeClr val="phClr">
+                    <a:shade val="95000"/>
+                    <a:satMod val="105000"/>
+                  </a:schemeClr>
+                </a:solidFill>
+                <a:prstDash val="solid"/>
+              </a:ln>
+              <a:ln w="25400" cap="flat" cmpd="sng" algn="ctr">
+                <a:solidFill>
+                  <a:schemeClr val="phClr"/>
+                </a:solidFill>
+                <a:prstDash val="solid"/>
+              </a:ln>
+              <a:ln w="38100" cap="flat" cmpd="sng" algn="ctr">
+                <a:solidFill>
+                  <a:schemeClr val="phClr"/>
+                </a:solidFill>
+                <a:prstDash val="solid"/>
+              </a:ln>
+            </a:lnStyleLst>
+            <a:effectStyleLst>
+              <a:effectStyle>
+                <a:effectLst>
+                  <a:outerShdw blurRad="40000" dist="20000" dir="5400000" rotWithShape="0">
+                    <a:srgbClr val="000000">
+                      <a:alpha val="38000"/>
+                    </a:srgbClr>
+                  </a:outerShdw>
+                </a:effectLst>
+              </a:effectStyle>
+              <a:effectStyle>
+                <a:effectLst>
+                  <a:outerShdw blurRad="40000" dist="23000" dir="5400000" rotWithShape="0">
+                    <a:srgbClr val="000000">
+                      <a:alpha val="35000"/>
+                    </a:srgbClr>
+                  </a:outerShdw>
+                </a:effectLst>
+              </a:effectStyle>
+              <a:effectStyle>
+                <a:effectLst>
+                  <a:outerShdw blurRad="40000" dist="23000" dir="5400000" rotWithShape="0">
+                    <a:srgbClr val="000000">
+                      <a:alpha val="35000"/>
+                    </a:srgbClr>
+                  </a:outerShdw>
+                </a:effectLst>
+                <a:scene3d>
+                  <a:camera prst="orthographicFront">
+                    <a:rot lat="0" lon="0" rev="0"/>
+                  </a:camera>
+                  <a:lightRig rig="threePt" dir="t">
+                    <a:rot lat="0" lon="0" rev="1200000"/>
+                  </a:lightRig>
+                </a:scene3d>
+                <a:sp3d>
+                  <a:bevelT w="63500" h="25400"/>
+                </a:sp3d>
+              </a:effectStyle>
+            </a:effectStyleLst>
+            <a:bgFillStyleLst>
+              <a:solidFill>
+                <a:schemeClr val="phClr"/>
+              </a:solidFill>
+              <a:gradFill rotWithShape="1">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="40000"/>
+                      <a:satMod val="350000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="40000">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="45000"/>
+                      <a:shade val="99000"/>
+                      <a:satMod val="350000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="phClr">
+                      <a:shade val="20000"/>
+                      <a:satMod val="255000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:path path="circle">
+                  <a:fillToRect l="50000" t="-80000" r="50000" b="180000"/>
+                </a:path>
+              </a:gradFill>
+              <a:gradFill rotWithShape="1">
+                <a:gsLst>
+                  <a:gs pos="0">
+                    <a:schemeClr val="phClr">
+                      <a:tint val="80000"/>
+                      <a:satMod val="300000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                  <a:gs pos="100000">
+                    <a:schemeClr val="phClr">
+                      <a:shade val="30000"/>
+                      <a:satMod val="200000"/>
+                    </a:schemeClr>
+                  </a:gs>
+                </a:gsLst>
+                <a:path path="circle">
+                  <a:fillToRect l="50000" t="50000" r="50000" b="50000"/>
+                </a:path>
+              </a:gradFill>
+            </a:bgFillStyleLst>
+          </a:fmtScheme>
+        </a:themeElements>
+        <a:objectDefaults/>
+        <a:extraClrSchemeLst/>
+      </a:theme>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/settings.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml">
+    <pkg:xmlData>
+      <w:settings mc:Ignorable="w14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:sl="http://schemas.openxmlformats.org/schemaLibrary/2006/main">
+        <w:zoom w:percent="100"/>
+        <w:proofState w:spelling="clean" w:grammar="clean"/>
+        <w:defaultTabStop w:val="708"/>
+        <w:characterSpacingControl w:val="doNotCompress"/>
+        <w:compat>
+          <w:compatSetting w:name="compatibilityMode" w:uri="http://schemas.microsoft.com/office/word" w:val="14"/>
+          <w:compatSetting w:name="overrideTableStyleFontSizeAndJustification" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+          <w:compatSetting w:name="enableOpenTypeFeatures" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+          <w:compatSetting w:name="doNotFlipMirrorIndents" w:uri="http://schemas.microsoft.com/office/word" w:val="1"/>
+        </w:compat>
+        <w:rsids>
+          <w:rsidRoot w:val="009F50E3"/>
+          <w:rsid w:val="00017D09"/>
+          <w:rsid w:val="00044AC9"/>
+          <w:rsid w:val="000765A9"/>
+          <w:rsid w:val="000B2749"/>
+          <w:rsid w:val="000E02F0"/>
+          <w:rsid w:val="00130128"/>
+          <w:rsid w:val="0014312E"/>
+          <w:rsid w:val="001B4698"/>
+          <w:rsid w:val="001C226A"/>
+          <w:rsid w:val="00227223"/>
+          <w:rsid w:val="002804B9"/>
+          <w:rsid w:val="0029734A"/>
+          <w:rsid w:val="002B3F2F"/>
+          <w:rsid w:val="002D28E7"/>
+          <w:rsid w:val="002F3749"/>
+          <w:rsid w:val="003175E4"/>
+          <w:rsid w:val="003870BD"/>
+          <w:rsid w:val="003A4CFE"/>
+          <w:rsid w:val="003C22F7"/>
+          <w:rsid w:val="00421A32"/>
+          <w:rsid w:val="00431673"/>
+          <w:rsid w:val="00476107"/>
+          <w:rsid w:val="004A3BDD"/>
+          <w:rsid w:val="004E482D"/>
+          <w:rsid w:val="00546BEC"/>
+          <w:rsid w:val="005A649C"/>
+          <w:rsid w:val="005C42B1"/>
+          <w:rsid w:val="005D6762"/>
+          <w:rsid w:val="005F60D8"/>
+          <w:rsid w:val="006436FE"/>
+          <w:rsid w:val="00660CB0"/>
+          <w:rsid w:val="006748A1"/>
+          <w:rsid w:val="006838A9"/>
+          <w:rsid w:val="00687244"/>
+          <w:rsid w:val="006C50D5"/>
+          <w:rsid w:val="006E414C"/>
+          <w:rsid w:val="00701328"/>
+          <w:rsid w:val="007B7CDA"/>
+          <w:rsid w:val="007D7EAA"/>
+          <w:rsid w:val="007F303B"/>
+          <w:rsid w:val="00812A3E"/>
+          <w:rsid w:val="00832115"/>
+          <w:rsid w:val="00835CC0"/>
+          <w:rsid w:val="00842280"/>
+          <w:rsid w:val="00845A77"/>
+          <w:rsid w:val="00891011"/>
+          <w:rsid w:val="0094152F"/>
+          <w:rsid w:val="00955D4E"/>
+          <w:rsid w:val="009B5104"/>
+          <w:rsid w:val="009B630B"/>
+          <w:rsid w:val="009C04FB"/>
+          <w:rsid w:val="009E6BDA"/>
+          <w:rsid w:val="009F0A42"/>
+          <w:rsid w:val="009F50E3"/>
+          <w:rsid w:val="00A2103E"/>
+          <w:rsid w:val="00A70A23"/>
+          <w:rsid w:val="00A84781"/>
+          <w:rsid w:val="00A924D4"/>
+          <w:rsid w:val="00B22706"/>
+          <w:rsid w:val="00B349CB"/>
+          <w:rsid w:val="00B35BDF"/>
+          <w:rsid w:val="00B62324"/>
+          <w:rsid w:val="00B91B72"/>
+          <w:rsid w:val="00B94CF9"/>
+          <w:rsid w:val="00BA2CB0"/>
+          <w:rsid w:val="00BC6B36"/>
+          <w:rsid w:val="00BD2940"/>
+          <w:rsid w:val="00BE7929"/>
+          <w:rsid w:val="00BF63E9"/>
+          <w:rsid w:val="00C352CA"/>
+          <w:rsid w:val="00C52E5B"/>
+          <w:rsid w:val="00C66F34"/>
+          <w:rsid w:val="00C71A5C"/>
+          <w:rsid w:val="00CC5FBC"/>
+          <w:rsid w:val="00CD31E8"/>
+          <w:rsid w:val="00CF31D8"/>
+          <w:rsid w:val="00D41332"/>
+          <w:rsid w:val="00D54170"/>
+          <w:rsid w:val="00D5775C"/>
+          <w:rsid w:val="00D72983"/>
+          <w:rsid w:val="00D80706"/>
+          <w:rsid w:val="00D9570B"/>
+          <w:rsid w:val="00DB67E8"/>
+          <w:rsid w:val="00DC67FF"/>
+          <w:rsid w:val="00DF24D3"/>
+          <w:rsid w:val="00E41B84"/>
+          <w:rsid w:val="00EA7076"/>
+          <w:rsid w:val="00EB1905"/>
+          <w:rsid w:val="00EB64E4"/>
+          <w:rsid w:val="00EC1EC7"/>
+          <w:rsid w:val="00ED3923"/>
+          <w:rsid w:val="00F07893"/>
+          <w:rsid w:val="00F56899"/>
+          <w:rsid w:val="00F64188"/>
+          <w:rsid w:val="00F86CF7"/>
+          <w:rsid w:val="00FB1FC6"/>
+          <w:rsid w:val="00FB2F58"/>
+          <w:rsid w:val="00FF3D4D"/>
+        </w:rsids>
+        <m:mathPr>
+          <m:mathFont m:val="Cambria Math"/>
+          <m:brkBin m:val="before"/>
+          <m:brkBinSub m:val="--"/>
+          <m:smallFrac m:val="0"/>
+          <m:dispDef/>
+          <m:lMargin m:val="0"/>
+          <m:rMargin m:val="0"/>
+          <m:defJc m:val="centerGroup"/>
+          <m:wrapIndent m:val="1440"/>
+          <m:intLim m:val="subSup"/>
+          <m:naryLim m:val="undOvr"/>
+        </m:mathPr>
+        <w:themeFontLang w:val="ru-RU"/>
+        <w:clrSchemeMapping w:bg1="light1" w:t1="dark1" w:bg2="light2" w:t2="dark2" w:accent1="accent1" w:accent2="accent2" w:accent3="accent3" w:accent4="accent4" w:accent5="accent5" w:accent6="accent6" w:hyperlink="hyperlink" w:followedHyperlink="followedHyperlink"/>
+        <w:doNotIncludeSubdocsInStats/>
+        <w:doNotAutoCompressPictures/>
+        <w:shapeDefaults>
+          <o:shapedefaults v:ext="edit" spidmax="1026"/>
+          <o:shapelayout v:ext="edit">
+            <o:idmap v:ext="edit" data="1"/>
+          </o:shapelayout>
+        </w:shapeDefaults>
+        <w:decimalSymbol w:val=","/>
+        <w:listSeparator w:val=";"/>
+        <w14:docId w14:val="5817B9DE"/>
+      </w:settings>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/styles.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml">
+    <pkg:xmlData>
+      <w:styles mc:Ignorable="w14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+        <w:docDefaults>
+          <w:rPrDefault>
+            <w:rPr>
+              <w:rFonts w:ascii="Calibri" w:eastAsia="Calibri" w:hAnsi="Calibri" w:cs="Times New Roman"/>
+              <w:lang w:val="ru-RU" w:eastAsia="ru-RU" w:bidi="ar-SA"/>
+            </w:rPr>
+          </w:rPrDefault>
+          <w:pPrDefault/>
+        </w:docDefaults>
+        <w:latentStyles w:defLockedState="0" w:defUIPriority="99" w:defSemiHidden="1" w:defUnhideWhenUsed="1" w:defQFormat="0" w:count="267">
+          <w:lsdException w:name="Normal" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 1" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 2" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 3" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 4" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 5" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 6" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 7" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 8" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 9" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="toc 1" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 2" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 3" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 4" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 5" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 6" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 7" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 8" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 9" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="caption" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="Title" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Default Paragraph Font" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Subtitle" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Strong" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Emphasis" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Table Grid" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Placeholder Text" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="No Spacing" w:semiHidden="0" w:uiPriority="1" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Light Shading" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 1" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 1" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 1" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 1" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 1" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 1" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Revision" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="List Paragraph" w:semiHidden="0" w:uiPriority="34" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Quote" w:semiHidden="0" w:uiPriority="29" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Intense Quote" w:semiHidden="0" w:uiPriority="30" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Medium List 2 Accent 1" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 1" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 1" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 1" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 1" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 1" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 1" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 1" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 2" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 2" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 2" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 2" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 2" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 2" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 2" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 2" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 2" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 2" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 2" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 2" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 2" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 2" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 3" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 3" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 3" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 3" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 3" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 3" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 3" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 3" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 3" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 3" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 3" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 3" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 3" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 3" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 4" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 4" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 4" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 4" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 4" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 4" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 4" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 4" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 4" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 4" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 4" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 4" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 4" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 4" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 5" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 5" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 5" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 5" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 5" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 5" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 5" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 5" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 5" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 5" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 5" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 5" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 5" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 5" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 6" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 6" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 6" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 6" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 6" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 6" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 6" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 6" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 6" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 6" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 6" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 6" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 6" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 6" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Subtle Emphasis" w:semiHidden="0" w:uiPriority="19" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Intense Emphasis" w:semiHidden="0" w:uiPriority="21" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Subtle Reference" w:semiHidden="0" w:uiPriority="31" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Intense Reference" w:semiHidden="0" w:uiPriority="32" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Book Title" w:semiHidden="0" w:uiPriority="33" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Bibliography" w:uiPriority="37"/>
+          <w:lsdException w:name="TOC Heading" w:uiPriority="39" w:qFormat="1"/>
+        </w:latentStyles>
+        <w:style w:type="paragraph" w:default="1" w:styleId="a">
+          <w:name w:val="Normal"/>
+          <w:qFormat/>
+          <w:rsid w:val="005A649C"/>
+          <w:pPr>
+            <w:spacing w:after="200" w:line="276" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:sz w:val="22"/>
+            <w:szCs w:val="22"/>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:default="1" w:styleId="a0">
+          <w:name w:val="Default Paragraph Font"/>
+          <w:uiPriority w:val="1"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+        </w:style>
+        <w:style w:type="table" w:default="1" w:styleId="a1">
+          <w:name w:val="Normal Table"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:tblPr>
+            <w:tblInd w:w="0" w:type="dxa"/>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="108" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="108" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPr>
+        </w:style>
+        <w:style w:type="numbering" w:default="1" w:styleId="a2">
+          <w:name w:val="No List"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="a3">
+          <w:name w:val="Normal (Web)"/>
+          <w:basedOn w:val="a"/>
+          <w:uiPriority w:val="99"/>
+          <w:rsid w:val="000B2749"/>
+          <w:pPr>
+            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+            <w:lang w:eastAsia="ru-RU"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="table" w:styleId="a4">
+          <w:name w:val="Table Grid"/>
+          <w:basedOn w:val="a1"/>
+          <w:uiPriority w:val="99"/>
+          <w:rsid w:val="009E6BDA"/>
+          <w:rPr>
+            <w:rFonts w:eastAsia="Times New Roman"/>
+          </w:rPr>
+          <w:tblPr>
+            <w:tblBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:insideH w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:insideV w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+            </w:tblBorders>
+          </w:tblPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="a5">
+          <w:name w:val="Balloon Text"/>
+          <w:basedOn w:val="a"/>
+          <w:link w:val="a6"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:rsid w:val="00E41B84"/>
+          <w:pPr>
+            <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Tahoma" w:hAnsi="Tahoma" w:cs="Tahoma"/>
+            <w:sz w:val="16"/>
+            <w:szCs w:val="16"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:customStyle="1" w:styleId="a6">
+          <w:name w:val="Текст выноски Знак"/>
+          <w:link w:val="a5"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:locked/>
+          <w:rsid w:val="00E41B84"/>
+          <w:rPr>
+            <w:rFonts w:ascii="Tahoma" w:hAnsi="Tahoma" w:cs="Tahoma"/>
+            <w:sz w:val="16"/>
+            <w:szCs w:val="16"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:customStyle="1" w:styleId="ConsPlusNormal">
+          <w:name w:val="ConsPlusNormal"/>
+          <w:uiPriority w:val="99"/>
+          <w:rsid w:val="00B62324"/>
+          <w:pPr>
+            <w:autoSpaceDE w:val="0"/>
+            <w:autoSpaceDN w:val="0"/>
+            <w:adjustRightInd w:val="0"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+            <w:sz w:val="26"/>
+            <w:szCs w:val="26"/>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:customStyle="1" w:styleId="Default">
+          <w:name w:val="Default"/>
+          <w:rsid w:val="00017D09"/>
+          <w:pPr>
+            <w:autoSpaceDE w:val="0"/>
+            <w:autoSpaceDN w:val="0"/>
+            <w:adjustRightInd w:val="0"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:styleId="a7">
+          <w:name w:val="annotation reference"/>
+          <w:basedOn w:val="a0"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:sz w:val="16"/>
+            <w:szCs w:val="16"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="a8">
+          <w:name w:val="annotation text"/>
+          <w:basedOn w:val="a"/>
+          <w:link w:val="a9"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:rsid w:val="00701328"/>
+          <w:pPr>
+            <w:spacing w:line="240" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:customStyle="1" w:styleId="a9">
+          <w:name w:val="Текст примечания Знак"/>
+          <w:basedOn w:val="a0"/>
+          <w:link w:val="a8"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="aa">
+          <w:name w:val="annotation subject"/>
+          <w:basedOn w:val="a8"/>
+          <w:next w:val="a8"/>
+          <w:link w:val="ab"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:b/>
+            <w:bCs/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:customStyle="1" w:styleId="ab">
+          <w:name w:val="Тема примечания Знак"/>
+          <w:basedOn w:val="a9"/>
+          <w:link w:val="aa"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+      </w:styles>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/stylesWithEffects.xml" pkg:contentType="application/vnd.ms-word.stylesWithEffects+xml">
+    <pkg:xmlData>
+      <w:styles mc:Ignorable="w14 wp14" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+        <w:docDefaults>
+          <w:rPrDefault>
+            <w:rPr>
+              <w:rFonts w:ascii="Calibri" w:eastAsia="Calibri" w:hAnsi="Calibri" w:cs="Times New Roman"/>
+              <w:lang w:val="ru-RU" w:eastAsia="ru-RU" w:bidi="ar-SA"/>
+            </w:rPr>
+          </w:rPrDefault>
+          <w:pPrDefault/>
+        </w:docDefaults>
+        <w:latentStyles w:defLockedState="0" w:defUIPriority="99" w:defSemiHidden="1" w:defUnhideWhenUsed="1" w:defQFormat="0" w:count="267">
+          <w:lsdException w:name="Normal" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 1" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 2" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 3" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 4" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 5" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 6" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 7" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 8" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="heading 9" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="toc 1" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 2" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 3" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 4" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 5" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 6" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 7" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 8" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="toc 9" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="caption" w:locked="1" w:uiPriority="0" w:qFormat="1"/>
+          <w:lsdException w:name="Title" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Default Paragraph Font" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Subtitle" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Strong" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Emphasis" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Table Grid" w:locked="1" w:semiHidden="0" w:uiPriority="0" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Placeholder Text" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="No Spacing" w:semiHidden="0" w:uiPriority="1" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Light Shading" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 1" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 1" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 1" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 1" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 1" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 1" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Revision" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="List Paragraph" w:semiHidden="0" w:uiPriority="34" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Quote" w:semiHidden="0" w:uiPriority="29" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Intense Quote" w:semiHidden="0" w:uiPriority="30" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Medium List 2 Accent 1" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 1" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 1" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 1" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 1" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 1" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 1" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 1" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 2" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 2" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 2" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 2" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 2" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 2" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 2" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 2" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 2" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 2" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 2" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 2" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 2" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 2" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 3" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 3" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 3" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 3" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 3" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 3" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 3" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 3" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 3" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 3" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 3" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 3" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 3" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 3" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 4" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 4" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 4" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 4" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 4" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 4" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 4" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 4" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 4" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 4" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 4" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 4" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 4" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 4" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 5" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 5" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 5" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 5" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 5" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 5" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 5" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 5" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 5" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 5" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 5" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 5" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 5" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 5" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Shading Accent 6" w:semiHidden="0" w:uiPriority="60" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light List Accent 6" w:semiHidden="0" w:uiPriority="61" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Light Grid Accent 6" w:semiHidden="0" w:uiPriority="62" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 1 Accent 6" w:semiHidden="0" w:uiPriority="63" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Shading 2 Accent 6" w:semiHidden="0" w:uiPriority="64" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 1 Accent 6" w:semiHidden="0" w:uiPriority="65" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium List 2 Accent 6" w:semiHidden="0" w:uiPriority="66" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 1 Accent 6" w:semiHidden="0" w:uiPriority="67" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 2 Accent 6" w:semiHidden="0" w:uiPriority="68" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Medium Grid 3 Accent 6" w:semiHidden="0" w:uiPriority="69" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Dark List Accent 6" w:semiHidden="0" w:uiPriority="70" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Shading Accent 6" w:semiHidden="0" w:uiPriority="71" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful List Accent 6" w:semiHidden="0" w:uiPriority="72" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Colorful Grid Accent 6" w:semiHidden="0" w:uiPriority="73" w:unhideWhenUsed="0"/>
+          <w:lsdException w:name="Subtle Emphasis" w:semiHidden="0" w:uiPriority="19" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Intense Emphasis" w:semiHidden="0" w:uiPriority="21" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Subtle Reference" w:semiHidden="0" w:uiPriority="31" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Intense Reference" w:semiHidden="0" w:uiPriority="32" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Book Title" w:semiHidden="0" w:uiPriority="33" w:unhideWhenUsed="0" w:qFormat="1"/>
+          <w:lsdException w:name="Bibliography" w:uiPriority="37"/>
+          <w:lsdException w:name="TOC Heading" w:uiPriority="39" w:qFormat="1"/>
+        </w:latentStyles>
+        <w:style w:type="paragraph" w:default="1" w:styleId="a">
+          <w:name w:val="Normal"/>
+          <w:qFormat/>
+          <w:rsid w:val="005A649C"/>
+          <w:pPr>
+            <w:spacing w:after="200" w:line="276" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:sz w:val="22"/>
+            <w:szCs w:val="22"/>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:default="1" w:styleId="a0">
+          <w:name w:val="Default Paragraph Font"/>
+          <w:uiPriority w:val="1"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+        </w:style>
+        <w:style w:type="table" w:default="1" w:styleId="a1">
+          <w:name w:val="Normal Table"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:tblPr>
+            <w:tblInd w:w="0" w:type="dxa"/>
+            <w:tblCellMar>
+              <w:top w:w="0" w:type="dxa"/>
+              <w:left w:w="108" w:type="dxa"/>
+              <w:bottom w:w="0" w:type="dxa"/>
+              <w:right w:w="108" w:type="dxa"/>
+            </w:tblCellMar>
+          </w:tblPr>
+        </w:style>
+        <w:style w:type="numbering" w:default="1" w:styleId="a2">
+          <w:name w:val="No List"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="a3">
+          <w:name w:val="Normal (Web)"/>
+          <w:basedOn w:val="a"/>
+          <w:uiPriority w:val="99"/>
+          <w:rsid w:val="000B2749"/>
+          <w:pPr>
+            <w:spacing w:before="100" w:beforeAutospacing="1" w:after="100" w:afterAutospacing="1" w:line="240" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+            <w:lang w:eastAsia="ru-RU"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="table" w:styleId="a4">
+          <w:name w:val="Table Grid"/>
+          <w:basedOn w:val="a1"/>
+          <w:uiPriority w:val="99"/>
+          <w:rsid w:val="009E6BDA"/>
+          <w:rPr>
+            <w:rFonts w:eastAsia="Times New Roman"/>
+          </w:rPr>
+          <w:tblPr>
+            <w:tblBorders>
+              <w:top w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:left w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:bottom w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:right w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:insideH w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+              <w:insideV w:val="single" w:sz="4" w:space="0" w:color="000000"/>
+            </w:tblBorders>
+          </w:tblPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="a5">
+          <w:name w:val="Balloon Text"/>
+          <w:basedOn w:val="a"/>
+          <w:link w:val="a6"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:rsid w:val="00E41B84"/>
+          <w:pPr>
+            <w:spacing w:after="0" w:line="240" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Tahoma" w:hAnsi="Tahoma" w:cs="Tahoma"/>
+            <w:sz w:val="16"/>
+            <w:szCs w:val="16"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:customStyle="1" w:styleId="a6">
+          <w:name w:val="Текст выноски Знак"/>
+          <w:link w:val="a5"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:locked/>
+          <w:rsid w:val="00E41B84"/>
+          <w:rPr>
+            <w:rFonts w:ascii="Tahoma" w:hAnsi="Tahoma" w:cs="Tahoma"/>
+            <w:sz w:val="16"/>
+            <w:szCs w:val="16"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:customStyle="1" w:styleId="ConsPlusNormal">
+          <w:name w:val="ConsPlusNormal"/>
+          <w:uiPriority w:val="99"/>
+          <w:rsid w:val="00B62324"/>
+          <w:pPr>
+            <w:autoSpaceDE w:val="0"/>
+            <w:autoSpaceDN w:val="0"/>
+            <w:adjustRightInd w:val="0"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+            <w:sz w:val="26"/>
+            <w:szCs w:val="26"/>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:customStyle="1" w:styleId="Default">
+          <w:name w:val="Default"/>
+          <w:rsid w:val="00017D09"/>
+          <w:pPr>
+            <w:autoSpaceDE w:val="0"/>
+            <w:autoSpaceDN w:val="0"/>
+            <w:adjustRightInd w:val="0"/>
+          </w:pPr>
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+            <w:color w:val="000000"/>
+            <w:sz w:val="24"/>
+            <w:szCs w:val="24"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:styleId="a7">
+          <w:name w:val="annotation reference"/>
+          <w:basedOn w:val="a0"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:sz w:val="16"/>
+            <w:szCs w:val="16"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="a8">
+          <w:name w:val="annotation text"/>
+          <w:basedOn w:val="a"/>
+          <w:link w:val="a9"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:rsid w:val="00701328"/>
+          <w:pPr>
+            <w:spacing w:line="240" w:lineRule="auto"/>
+          </w:pPr>
+          <w:rPr>
+            <w:sz w:val="20"/>
+            <w:szCs w:val="20"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:customStyle="1" w:styleId="a9">
+          <w:name w:val="Текст примечания Знак"/>
+          <w:basedOn w:val="a0"/>
+          <w:link w:val="a8"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="aa">
+          <w:name w:val="annotation subject"/>
+          <w:basedOn w:val="a8"/>
+          <w:next w:val="a8"/>
+          <w:link w:val="ab"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:unhideWhenUsed/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:b/>
+            <w:bCs/>
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:customStyle="1" w:styleId="ab">
+          <w:name w:val="Тема примечания Знак"/>
+          <w:basedOn w:val="a9"/>
+          <w:link w:val="aa"/>
+          <w:uiPriority w:val="99"/>
+          <w:semiHidden/>
+          <w:rsid w:val="00701328"/>
+          <w:rPr>
+            <w:b/>
+            <w:bCs/>
+            <w:lang w:eastAsia="en-US"/>
+          </w:rPr>
+        </w:style>
+      </w:styles>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/docProps/app.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.extended-properties+xml" pkg:padding="256">
+    <pkg:xmlData>
+      <Properties xmlns="http://schemas.openxmlformats.org/officeDocument/2006/extended-properties" xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
+        <Template>Normal.dotm</Template>
+        <TotalTime>0</TotalTime>
+        <Pages>2</Pages>
+        <Words>373</Words>
+        <Characters>2127</Characters>
+        <Application>Microsoft Office Word</Application>
+        <DocSecurity>0</DocSecurity>
+        <Lines>17</Lines>
+        <Paragraphs>4</Paragraphs>
+        <ScaleCrop>false</ScaleCrop>
+        <HeadingPairs>
+          <vt:vector size="2" baseType="variant">
+            <vt:variant>
+              <vt:lpstr>Название</vt:lpstr>
+            </vt:variant>
+            <vt:variant>
+              <vt:i4>1</vt:i4>
+            </vt:variant>
+          </vt:vector>
+        </HeadingPairs>
+        <TitlesOfParts>
+          <vt:vector size="1" baseType="lpstr">
+            <vt:lpstr>В Арбитражный суд г</vt:lpstr>
+          </vt:vector>
+        </TitlesOfParts>
+        <Company/>
+        <LinksUpToDate>false</LinksUpToDate>
+        <CharactersWithSpaces>2496</CharactersWithSpaces>
+        <SharedDoc>false</SharedDoc>
+        <HyperlinksChanged>false</HyperlinksChanged>
+        <AppVersion>14.0000</AppVersion>
+      </Properties>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/docProps/core.xml" pkg:contentType="application/vnd.openxmlformats-package.core-properties+xml" pkg:padding="256">
+    <pkg:xmlData>
+      <cp:coreProperties xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <dc:title>В Арбитражный суд г</dc:title>
+        <dc:creator>EremeevAV</dc:creator>
+        <cp:lastModifiedBy>User</cp:lastModifiedBy>
+        <cp:revision>2</cp:revision>
+        <cp:lastPrinted>2015-11-24T07:49:00Z</cp:lastPrinted>
+        <dcterms:created xsi:type="dcterms:W3CDTF">2017-03-13T20:42:00Z</dcterms:created>
+        <dcterms:modified xsi:type="dcterms:W3CDTF">2017-03-13T20:42:00Z</dcterms:modified>
+      </cp:coreProperties>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/fontTable.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml">
+    <pkg:xmlData>
+      <w:fonts mc:Ignorable="w14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+        <w:font w:name="Times New Roman">
+          <w:panose1 w:val="02020603050405020304"/>
+          <w:charset w:val="CC"/>
+          <w:family w:val="roman"/>
+          <w:pitch w:val="variable"/>
+          <w:sig w:usb0="E0002EFF" w:usb1="C000785B" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF" w:csb1="00000000"/>
+        </w:font>
+        <w:font w:name="Calibri">
+          <w:panose1 w:val="020F0502020204030204"/>
+          <w:charset w:val="CC"/>
+          <w:family w:val="swiss"/>
+          <w:pitch w:val="variable"/>
+          <w:sig w:usb0="E0002AFF" w:usb1="C000247B" w:usb2="00000009" w:usb3="00000000" w:csb0="000001FF" w:csb1="00000000"/>
+        </w:font>
+        <w:font w:name="Tahoma">
+          <w:panose1 w:val="020B0604030504040204"/>
+          <w:charset w:val="CC"/>
+          <w:family w:val="swiss"/>
+          <w:pitch w:val="variable"/>
+          <w:sig w:usb0="E1002EFF" w:usb1="C000605B" w:usb2="00000029" w:usb3="00000000" w:csb0="000101FF" w:csb1="00000000"/>
+        </w:font>
+        <w:font w:name="Cambria">
+          <w:panose1 w:val="02040503050406030204"/>
+          <w:charset w:val="CC"/>
+          <w:family w:val="roman"/>
+          <w:pitch w:val="variable"/>
+          <w:sig w:usb0="E00002FF" w:usb1="400004FF" w:usb2="00000000" w:usb3="00000000" w:csb0="0000019F" w:csb1="00000000"/>
+        </w:font>
+      </w:fonts>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/webSettings.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml">
+    <pkg:xmlData>
+      <w:webSettings mc:Ignorable="w14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml">
+        <w:optimizeForBrowser/>
+        <w:relyOnVML/>
+        <w:allowPNG/>
+      </w:webSettings>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/numbering.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml">
+    <pkg:xmlData>
+      <w:numbering mc:Ignorable="w14 wp14" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+        <w:abstractNum w:abstractNumId="0">
+          <w:nsid w:val="3C4A2BEB"/>
+          <w:multiLevelType w:val="hybridMultilevel"/>
+          <w:tmpl w:val="C07CC872"/>
+          <w:lvl w:ilvl="0" w:tplc="DB481974">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%1."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="1068" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman" w:hint="default"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="1" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%2."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="1788" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="2" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%3."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="2508" w:hanging="180"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="3" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%4."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="3228" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="4" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%5."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="3948" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="5" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%6."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="4668" w:hanging="180"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="6" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%7."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="5388" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="7" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%8."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="6108" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="8" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%9."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="6828" w:hanging="180"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+        </w:abstractNum>
+        <w:abstractNum w:abstractNumId="1">
+          <w:nsid w:val="4AEB50A9"/>
+          <w:multiLevelType w:val="hybridMultilevel"/>
+          <w:tmpl w:val="D514F580"/>
+          <w:lvl w:ilvl="0" w:tplc="4782BDE6">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%1."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="1068" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman" w:hint="default"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="1" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%2."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="1788" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="2" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%3."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="2508" w:hanging="180"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="3" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%4."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="3228" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="4" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%5."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="3948" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="5" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%6."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="4668" w:hanging="180"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="6" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%7."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="5388" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="7" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%8."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="6108" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="8" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%9."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="6828" w:hanging="180"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:cs="Times New Roman"/>
+            </w:rPr>
+          </w:lvl>
+        </w:abstractNum>
+        <w:abstractNum w:abstractNumId="2">
+          <w:nsid w:val="79CF3DAF"/>
+          <w:multiLevelType w:val="hybridMultilevel"/>
+          <w:tmpl w:val="A404BEAA"/>
+          <w:lvl w:ilvl="0" w:tplc="ED7ADFF6">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%1."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="720" w:hanging="360"/>
+            </w:pPr>
+            <w:rPr>
+              <w:rFonts w:hint="default"/>
+              <w:sz w:val="26"/>
+            </w:rPr>
+          </w:lvl>
+          <w:lvl w:ilvl="1" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%2."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="1440" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="2" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%3."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="2160" w:hanging="180"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="3" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%4."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="2880" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="4" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%5."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="3600" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="5" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%6."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="4320" w:hanging="180"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="6" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%7."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="5040" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="7" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%8."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="5760" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="8" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%9."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="6480" w:hanging="180"/>
+            </w:pPr>
+          </w:lvl>
+        </w:abstractNum>
+        <w:abstractNum w:abstractNumId="3">
+          <w:nsid w:val="7F2E5A68"/>
+          <w:multiLevelType w:val="hybridMultilevel"/>
+          <w:tmpl w:val="2E6A0492"/>
+          <w:lvl w:ilvl="0" w:tplc="0419000F">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%1."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="720" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="1" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%2."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="1440" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="2" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%3."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="2160" w:hanging="180"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="3" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%4."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="2880" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="4" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%5."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="3600" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="5" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%6."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="4320" w:hanging="180"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="6" w:tplc="0419000F" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="decimal"/>
+            <w:lvlText w:val="%7."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="5040" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="7" w:tplc="04190019" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerLetter"/>
+            <w:lvlText w:val="%8."/>
+            <w:lvlJc w:val="left"/>
+            <w:pPr>
+              <w:ind w:left="5760" w:hanging="360"/>
+            </w:pPr>
+          </w:lvl>
+          <w:lvl w:ilvl="8" w:tplc="0419001B" w:tentative="1">
+            <w:start w:val="1"/>
+            <w:numFmt w:val="lowerRoman"/>
+            <w:lvlText w:val="%9."/>
+            <w:lvlJc w:val="right"/>
+            <w:pPr>
+              <w:ind w:left="6480" w:hanging="180"/>
+            </w:pPr>
+          </w:lvl>
+        </w:abstractNum>
+        <w:num w:numId="1">
+          <w:abstractNumId w:val="0"/>
+        </w:num>
+        <w:num w:numId="2">
+          <w:abstractNumId w:val="1"/>
+        </w:num>
+        <w:num w:numId="3">
+          <w:abstractNumId w:val="3"/>
+        </w:num>
+        <w:num w:numId="4">
+          <w:abstractNumId w:val="2"/>
+        </w:num>
+      </w:numbering>
+    </pkg:xmlData>
+  </pkg:part>
+</pkg:package>
